@@ -162,7 +162,7 @@ for (var i = 1; i <= rows; i++)
         
 
 
-    tr.appendChild(td)
+    tr.appendChild(td)   
     tr.appendChild(td2)
     table.appendChild(tr);
 }
